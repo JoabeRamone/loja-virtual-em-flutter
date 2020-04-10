@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "346064665186",
+    "firebase_url": "https://lojaflutter-7df42.firebaseio.com",
+    "project_id": "lojaflutter-7df42",
+    "storage_bucket": "lojaflutter-7df42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346064665186:android:2f182944dfab098b19ef3b",
+        "android_client_info": {
+          "package_name": "br.com.ramone.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346064665186-p8sht1sru4tcfu6nh6vvunni71nudvi9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjd8tAFMUeX8_g58chMRexELePVbnI5Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346064665186-p8sht1sru4tcfu6nh6vvunni71nudvi9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
